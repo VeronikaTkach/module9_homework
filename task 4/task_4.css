@@ -1,0 +1,25 @@
+
+.result {
+	display: flex;
+	flex-wrap: wrap;
+	width: 500px;
+}
+
+.card {
+	width: 200px;
+	margin: 20px;
+}
+
+.card-image {
+	display: block;
+	width: 200px;
+	height: 150px;
+}
+
+.input {
+    width: 250px;
+}
+
+.btn {
+    height: 20px;
+}
